@@ -1,6 +1,6 @@
 # Typescript Fullstack Project
 
-This is the Bootcamp's Project Monorepo.
+Project Monorepo.
 
 ## Apps and Packages
 
